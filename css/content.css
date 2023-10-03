@@ -1,0 +1,35 @@
+.item{
+width: 50px;
+background-color: bisque;
+color: rgb(102, 83, 55);
+text-align: center;
+  line-height: 50px;
+  margin: 5px;
+}
+
+.container{
+display: flex;
+background-color: rgb(181, 225, 131);
+
+}
+.secondblock{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(156, 209, 141);
+}
+.thirdlock{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.fourlock{
+    display: flex;
+    justify-content: center;
+
+}
+.logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(109, 217, 143);
+}
